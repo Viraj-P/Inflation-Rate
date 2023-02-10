@@ -1,2 +1,3 @@
 # Inflation-Rate
  Inflation Rate Calculator
+This code calculates the personal inflation rate for a specified year based on the user's input of expenses in the previous year and the current year. The inflation rate is calculated as the percentage increase in the expenses from the previous year to the current year. The code also categorizes the inflation rate as "Low", "Moderate", "High", or "Hyper" based on the calculated rate. The code takes user input for the number of expenditure categories and the expenses for each category, and calculates the total expenses for the previous year and the current year. The inflation rate is then calculated and categorized, and the code outputs the personal inflation rate and its corresponding category
